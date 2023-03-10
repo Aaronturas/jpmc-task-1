@@ -21,7 +21,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='jpmc1.gif' title='jpmc' width='' alt='Video Walkthrough' width="750" height="750"/>
+<img src='jpmc1.webm' title='jpmc' width='' alt='Video Walkthrough' width="750" height="750"/>
 
 GIF created with **Screencast in Ubuntu**  
 
