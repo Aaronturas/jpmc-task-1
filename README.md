@@ -19,11 +19,8 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories: [jpmc1.webm](https://user-images.githubusercontent.com/91685385/224225813-4483aa24-568f-4980-9a3a-397870a15e59.webm)
 
-<img src='jpmc1.webm' title='jpmc' width='' alt='Video Walkthrough' width="750" height="750"/>
-
-GIF created with **Screencast in Ubuntu**  
 
 ## Notes
 
