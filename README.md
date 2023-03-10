@@ -21,7 +21,6 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories: [jpmc1.webm](https://user-images.githubusercontent.com/91685385/224225813-4483aa24-568f-4980-9a3a-397870a15e59.webm)
 
-
 ## Notes
 
 - Make sure GIT is setup eg.(username & email)
